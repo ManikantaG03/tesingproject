@@ -1,1 +1,3 @@
 testdata
+automation testing 
+manual testing
